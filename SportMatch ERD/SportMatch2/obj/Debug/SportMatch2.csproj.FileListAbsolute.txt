@@ -1,0 +1,10 @@
+C:\sportmathc\SportMatch2\SportMatch2\bin\Debug\SportMatch2.exe.config
+C:\sportmathc\SportMatch2\SportMatch2\bin\Debug\SportMatch2.exe
+C:\sportmathc\SportMatch2\SportMatch2\bin\Debug\SportMatch2.pdb
+C:\sportmathc\SportMatch2\SportMatch2\obj\Debug\SportMatch2.csprojAssemblyReference.cache
+C:\sportmathc\SportMatch2\SportMatch2\obj\Debug\SportMatch2.Form1.resources
+C:\sportmathc\SportMatch2\SportMatch2\obj\Debug\SportMatch2.Properties.Resources.resources
+C:\sportmathc\SportMatch2\SportMatch2\obj\Debug\SportMatch2.csproj.GenerateResource.cache
+C:\sportmathc\SportMatch2\SportMatch2\obj\Debug\SportMatch2.csproj.CoreCompileInputs.cache
+C:\sportmathc\SportMatch2\SportMatch2\obj\Debug\SportMatch2.exe
+C:\sportmathc\SportMatch2\SportMatch2\obj\Debug\SportMatch2.pdb
